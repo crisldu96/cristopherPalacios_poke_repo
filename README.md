@@ -6,13 +6,13 @@ Using the technologies of Typescript and Eslint to ensure good practices.
 ## Screenshots
 
 <p>
-  <img alt="screenshot" width="100%" src="./src/assets/screenshots/Cap1.png" />
+  <img alt="screenshot" width="100%" src="./public/static/screenshots/Cap1.png" />
 </p>
 <p>
   <img alt="screenshot" width="100%" src="./public/static/screenshots/Cap2.png" />
 </p>
 <p>
-  <img alt="screenshot" width="100%" src="/static/screenshots/Cap3.png" />
+  <img alt="screenshot" width="100%" src="./public/static/screenshots/Cap3.png" />
 </p>
 
 ## Available Scripts
