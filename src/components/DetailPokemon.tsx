@@ -4,7 +4,6 @@ import type { MainSectionProps } from '../types/mainSection';
 
 const DetailPokemon: React.FC<MainSectionProps> = (props) => {
   const { pokemonSelectedData } = props;
-  console.log(pokemonSelectedData);
   return (
     <>
       {!pokemonSelectedData
