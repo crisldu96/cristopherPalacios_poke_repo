@@ -57,6 +57,6 @@ const DetailPokemon: React.FC<MainSectionProps> = (props) => {
           </div>)}
     </>
   );
-}
+};
 
 export default DetailPokemon;
