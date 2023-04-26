@@ -1,10 +1,26 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Using the technologies of Typescript and Eslint to ensure good practices.
+
+## Screenshots
+
+<p>
+  <img alt="screenshot" width="100%" src="/static/screenshots/Cap1.png" />
+</p>
+<p>
+  <img alt="screenshot" width="100%" src="/static/screenshots/Cap2.png" />
+</p>
+<p>
+  <img alt="screenshot" width="100%" src="/static/screenshots/Cap3.png" />
+</p>
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+Looks for the package.json file to determine which packages and versions to install. It then downloads and installs the necessary packages and their dependencies in the node_modules directory.
 
 ### `npm start`
 
@@ -39,8 +55,5 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Created By
+Cristopher Palacios.
