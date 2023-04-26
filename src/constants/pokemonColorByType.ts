@@ -1,3 +1,4 @@
+/*eslint-disable*/
 interface PokemonColorByType {
   [key: string]: string;
 }
